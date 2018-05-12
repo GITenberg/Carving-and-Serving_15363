@@ -1,0 +1,36 @@
+_repo: Carving-and-Serving_15363
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lincoln, Mary J. (Mary Johnson)
+    aliases:
+    - Bailey, Mary
+    - Lincoln, Mrs. D. A.
+    - Lincoln, Daniel A., Mrs.
+    - Lincoln, Mary Johnson Bailey
+    birthdate: 1844
+    deathdate: 1921
+    gutenberg_agent_id: '6016'
+    url: http://www.gutenberg.org/2009/agents/6016
+    wikipedia: http://www.foodhistory.com/foodnotes/leftovers/lincoln/mjb/01/index.htm
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2005-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15363'
+  lccn: 07028234
+language: en
+publication_note: "Boston\r\nLittle, Brown, And Company\r\n1906"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Carving (Meat, etc.)'
+- !lcsh 'Cooking'
+- !lcc 'TX'
+title: Carving and Serving
+url: http://www.gutenberg.org/ebooks/15363
