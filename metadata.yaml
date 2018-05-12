@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6016
     wikipedia: http://www.foodhistory.com/foodnotes/leftovers/lincoln/mjb/01/index.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15363#Carving-and-Serving
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2005-03-15'
 gutenberg_type: Text
